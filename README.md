@@ -30,7 +30,7 @@ This mobile application was developed using Flutter to control a 4-DOF robotic a
 | └── get_run_pose.php  | Returns all saved poses in JSON format     |
 | └── update_status.php | Updates the run status of a pose           |
 | └── delete_pose.php   | Deletes a pose by ID                       |
-| Screenshots/          | Images showing the application interface   |
+| app_interface_screenshot.jpg   | Images showing the application interface   |
 | README.md             | Full project documentation (this file)     |
 
 ---
