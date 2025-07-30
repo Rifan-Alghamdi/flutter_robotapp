@@ -1,4 +1,4 @@
-# Flutter Robot Arm Controller 🦾📱
+# Flutter Robot Arm Controller 
 
 ## 📌 Description
 
